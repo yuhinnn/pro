@@ -8,7 +8,16 @@
 </head>
 
 <body>
+  <header>
 <h1> Hello,world  </h1>
+  </header>
+<div class="main">
+  <div class="title">
+    <h1>入力</h1>
+  </div>
+</div>
+
+
 </body>
 
 </html>
