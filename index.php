@@ -15,6 +15,12 @@
   <div class="title">
     <h1>入力</h1>
   </div>
+  <h3>名前</h3>
+  <form class="#" action="sent.php" method="post">
+    <input type="text" name="name"><br>
+    <input type="submit" value="送信" >
+
+  </form>
 </div>
 
 
