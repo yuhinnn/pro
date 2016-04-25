@@ -17,7 +17,7 @@
   </div>
   <h3>名前</h3>
   <?php
-   echo $_POST["name"];
+   echo mb_substr($_POST["name"],0,4);
    echo "さん";
    ?>
 
